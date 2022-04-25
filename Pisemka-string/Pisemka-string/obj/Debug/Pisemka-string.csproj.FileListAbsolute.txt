@@ -1,0 +1,10 @@
+G:\programování\Start C Sharp --------------------------------------------\STRING ____----_____----____\Pisemka-string\Pisemka-string\bin\Debug\Pisemka-string.exe.config
+G:\programování\Start C Sharp --------------------------------------------\STRING ____----_____----____\Pisemka-string\Pisemka-string\bin\Debug\Pisemka-string.exe
+G:\programování\Start C Sharp --------------------------------------------\STRING ____----_____----____\Pisemka-string\Pisemka-string\bin\Debug\Pisemka-string.pdb
+G:\programování\Start C Sharp --------------------------------------------\STRING ____----_____----____\Pisemka-string\Pisemka-string\obj\Debug\Pisemka-string.csprojAssemblyReference.cache
+G:\programování\Start C Sharp --------------------------------------------\STRING ____----_____----____\Pisemka-string\Pisemka-string\obj\Debug\Pisemka_string.Form1.resources
+G:\programování\Start C Sharp --------------------------------------------\STRING ____----_____----____\Pisemka-string\Pisemka-string\obj\Debug\Pisemka_string.Properties.Resources.resources
+G:\programování\Start C Sharp --------------------------------------------\STRING ____----_____----____\Pisemka-string\Pisemka-string\obj\Debug\Pisemka-string.csproj.GenerateResource.cache
+G:\programování\Start C Sharp --------------------------------------------\STRING ____----_____----____\Pisemka-string\Pisemka-string\obj\Debug\Pisemka-string.csproj.CoreCompileInputs.cache
+G:\programování\Start C Sharp --------------------------------------------\STRING ____----_____----____\Pisemka-string\Pisemka-string\obj\Debug\Pisemka-string.exe
+G:\programování\Start C Sharp --------------------------------------------\STRING ____----_____----____\Pisemka-string\Pisemka-string\obj\Debug\Pisemka-string.pdb
